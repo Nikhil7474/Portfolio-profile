@@ -1,14 +1,22 @@
-# welcome to my portfolio
+# Portfolio
 
-Hi, my name is Nikhil Kumar. 
+This is my portfolio
 
-I do webdevelopment till 9 months.
+* This porfoliio show my skill and my projects
 
-Skills 
+* Skills:-
 
-1. HTML
-1. JavaScript
-1. CSS
-1. React
+    1 HTML5 
 
+    2 Git 
+    
+    3 JavaScript 
+    
+    4 NodeJS 
+    
+    5 ReactJS 
+    
+    6 Web Hosting
+
+    7 CSS
 
